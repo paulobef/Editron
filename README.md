@@ -1,6 +1,7 @@
-# empty-project
+# Editron
 
-Empty project.
+Minimalist notepad built using only plain JS with a Model View Controller pattern.
+Notes are saved to local storage.
 
 ## Building and running on localhost
 
